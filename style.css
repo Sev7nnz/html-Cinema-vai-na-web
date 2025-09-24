@@ -1,0 +1,32 @@
+/*
+comentario de varias linhas
+*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 150px;
+}
+
+.titulo {
+  color: rgb(255, 0, 51);
+}
+
+.fundo {
+  background-color: black;
+}
+
+#btn1 {
+  background-color: rgb(53, 53, 185);
+}
+
+#btn2 {
+  background-color: rgb(53, 53, 185);
+}
+
+#btn3 {
+  background-color: rgb(53, 53, 185);
+}/*# sourceMappingURL=style.css.map */

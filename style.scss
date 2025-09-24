@@ -1,0 +1,50 @@
+// seletor{propriedade:valor;}
+// comentario de apenas uma linha;
+/*
+comentario de varias linhas
+*/
+
+*{
+    margin: 0;
+    // espaçamento externo das tags
+    padding: 0;
+    // espaçamento interno das tags
+    box-sizing: border-box;
+    // ele faz o calcúlo correto dos tamanhos dos elementos
+}
+
+// tag = seletor
+
+img{
+    width: 150px;
+}
+
+// clas - seletor 
+
+
+.titulo{
+
+    color: rgb(255, 0, 51);
+}
+
+.fundo{
+
+    background-color: black;
+}
+
+
+// #id = seletor 
+
+
+#btn1{
+    background-color: rgb(53, 53, 185);
+}
+#btn2{
+    background-color: rgb(53, 53, 185);
+}
+#btn3{
+    background-color: rgb(53, 53, 185);
+}
+
+
+
